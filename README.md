@@ -2,6 +2,12 @@
 
 Este proyecto es un script en Python para realizar scraping de dominios recientemente registrados desde el sitio web ABT Domain. Los resultados se almacenan en un archivo CSV para facilitar su análisis posterior. Actualmente, el scraping se realiza solo para dominios .com, pero se planean mejoras para soportar todos los gTLDs.
 
+- ![url.py](./Scraping001.png)
+- ![Resultados](./Scraping002.png)
+- ![Alertas](./Scraping003.png)
+- ![Palabras generadas en Alertas](./Scraping004.png)
+- ![Resultados](./Scraping005.png)
+  
 ## Características
 
 - Obtiene dominios registrados recientemente a partir de una fecha específica.
